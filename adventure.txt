@@ -1,1 +1,1 @@
-first git conflict 
+first git conflict
